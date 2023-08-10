@@ -2,7 +2,7 @@
 
 current_dir=$(dirname "$0")
 
-venv_path="$current_dir/.pyenv"
+venv_path="$current_dir/.venv"
 
 source "$venv_path/bin/activate"
 
