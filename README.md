@@ -1,4 +1,4 @@
-# pythonanywhere_file_download
+# pythonanywhere-file-download
 Simple Python script for download files from PythonAnywhere
 
 ## Requirements
